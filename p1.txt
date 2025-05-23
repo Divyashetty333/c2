@@ -1,0 +1,4 @@
+#! bin/sh
+echo "I am good"
+echo "I don't know"
+i am 
